@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34607.119
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Counting Game Library", "Counting Game Library\Counting Game Library.csproj", "{81F21917-B4CD-4822-8B78-036746FCE8F9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Counting Game Console UI", "Counting Game Console UI\Counting Game Console UI.csproj", "{5065E73C-6230-47F1-8CB9-F124D5753FA5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Counting Game Winform UI", "Counting Game Winform UI\Counting Game Winform UI.csproj", "{223E36A4-209E-414E-993C-E3F8102CF6D2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Counting Game Console Controls Library", "Counting Game Console Controls Library\Counting Game Console Controls Library.csproj", "{CEC3CE30-6C4F-4E8E-A7A6-45881D783223}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Counting Game Cheat Sheet Console UI", "Counting Game Cheat Sheet Console UI\Counting Game Cheat Sheet Console UI.csproj", "{D416E8CF-77E1-4933-AC49-FE37F07D1AD1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Counting Game Console Library", "Counting Game Console Library\Counting Game Console Library.csproj", "{6539638A-FE23-497D-8AFF-E0F5EA016E7B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{81F21917-B4CD-4822-8B78-036746FCE8F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81F21917-B4CD-4822-8B78-036746FCE8F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81F21917-B4CD-4822-8B78-036746FCE8F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81F21917-B4CD-4822-8B78-036746FCE8F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5065E73C-6230-47F1-8CB9-F124D5753FA5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5065E73C-6230-47F1-8CB9-F124D5753FA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5065E73C-6230-47F1-8CB9-F124D5753FA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5065E73C-6230-47F1-8CB9-F124D5753FA5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{223E36A4-209E-414E-993C-E3F8102CF6D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{223E36A4-209E-414E-993C-E3F8102CF6D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{223E36A4-209E-414E-993C-E3F8102CF6D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{223E36A4-209E-414E-993C-E3F8102CF6D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CEC3CE30-6C4F-4E8E-A7A6-45881D783223}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEC3CE30-6C4F-4E8E-A7A6-45881D783223}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEC3CE30-6C4F-4E8E-A7A6-45881D783223}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEC3CE30-6C4F-4E8E-A7A6-45881D783223}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D416E8CF-77E1-4933-AC49-FE37F07D1AD1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D416E8CF-77E1-4933-AC49-FE37F07D1AD1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D416E8CF-77E1-4933-AC49-FE37F07D1AD1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D416E8CF-77E1-4933-AC49-FE37F07D1AD1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6539638A-FE23-497D-8AFF-E0F5EA016E7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6539638A-FE23-497D-8AFF-E0F5EA016E7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6539638A-FE23-497D-8AFF-E0F5EA016E7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6539638A-FE23-497D-8AFF-E0F5EA016E7B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A2BA052D-D4BD-4145-B576-167DC581197B}
+	EndGlobalSection
+EndGlobal
