@@ -1,0 +1,6 @@
+C:\Users\MG\source\New projects\Counting Game\Counting Game Library\bin\Release\Counting Game Library.dll
+C:\Users\MG\source\New projects\Counting Game\Counting Game Library\bin\Release\Counting Game Library.pdb
+C:\Users\MG\source\New projects\Counting Game\Counting Game Library\obj\Release\Counting Game Library.csproj.AssemblyReference.cache
+C:\Users\MG\source\New projects\Counting Game\Counting Game Library\obj\Release\Counting Game Library.csproj.CoreCompileInputs.cache
+C:\Users\MG\source\New projects\Counting Game\Counting Game Library\obj\Release\Counting Game Library.dll
+C:\Users\MG\source\New projects\Counting Game\Counting Game Library\obj\Release\Counting Game Library.pdb

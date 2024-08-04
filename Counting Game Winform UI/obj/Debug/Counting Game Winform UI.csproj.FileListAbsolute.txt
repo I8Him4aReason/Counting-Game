@@ -1,0 +1,33 @@
+C:\Users\MG\source\New projects\Addition Game\Addition Game Winform UI\bin\Debug\Addition Game Winform UI.exe.config
+C:\Users\MG\source\New projects\Addition Game\Addition Game Winform UI\bin\Debug\Addition Game Winform UI.exe
+C:\Users\MG\source\New projects\Addition Game\Addition Game Winform UI\bin\Debug\Addition Game Winform UI.pdb
+C:\Users\MG\source\New projects\Addition Game\Addition Game Winform UI\bin\Debug\Addition Game Console UI.exe
+C:\Users\MG\source\New projects\Addition Game\Addition Game Winform UI\bin\Debug\Addition Game Library.dll
+C:\Users\MG\source\New projects\Addition Game\Addition Game Winform UI\bin\Debug\Addition Game Console UI.pdb
+C:\Users\MG\source\New projects\Addition Game\Addition Game Winform UI\bin\Debug\Addition Game Console UI.exe.config
+C:\Users\MG\source\New projects\Addition Game\Addition Game Winform UI\bin\Debug\Addition Game Library.pdb
+C:\Users\MG\source\New projects\Addition Game\Addition Game Winform UI\obj\Debug\Counting Game Winform UI.csproj.AssemblyReference.cache
+C:\Users\MG\source\New projects\Addition Game\Addition Game Winform UI\obj\Debug\Addition_Game_Winform_UI.GameplayForm.resources
+C:\Users\MG\source\New projects\Addition Game\Addition Game Winform UI\obj\Debug\Addition_Game_Winform_UI.IntroForm.resources
+C:\Users\MG\source\New projects\Addition Game\Addition Game Winform UI\obj\Debug\Addition_Game_Winform_UI.MainMenuForm.resources
+C:\Users\MG\source\New projects\Addition Game\Addition Game Winform UI\obj\Debug\Addition_Game_Winform_UI.Properties.Resources.resources
+C:\Users\MG\source\New projects\Addition Game\Addition Game Winform UI\obj\Debug\Counting Game Winform UI.csproj.GenerateResource.cache
+C:\Users\MG\source\New projects\Addition Game\Addition Game Winform UI\obj\Debug\Counting Game Winform UI.csproj.CoreCompileInputs.cache
+C:\Users\MG\source\New projects\Addition Game\Addition Game Winform UI\obj\Debug\Counting.B7CBB70E.Up2Date
+C:\Users\MG\source\New projects\Addition Game\Addition Game Winform UI\obj\Debug\Addition Game Winform UI.exe
+C:\Users\MG\source\New projects\Addition Game\Addition Game Winform UI\obj\Debug\Addition Game Winform UI.pdb
+C:\Users\MG\source\New projects\Counting Game\Counting Game Winform UI\bin\Debug\Counting Game Winform UI.exe.config
+C:\Users\MG\source\New projects\Counting Game\Counting Game Winform UI\bin\Debug\Counting Game Winform UI.exe
+C:\Users\MG\source\New projects\Counting Game\Counting Game Winform UI\bin\Debug\Counting Game Winform UI.pdb
+C:\Users\MG\source\New projects\Counting Game\Counting Game Winform UI\bin\Debug\Counting Game Library.dll
+C:\Users\MG\source\New projects\Counting Game\Counting Game Winform UI\bin\Debug\Counting Game Library.pdb
+C:\Users\MG\source\New projects\Counting Game\Counting Game Winform UI\obj\Debug\Counting Game Winform UI.csproj.AssemblyReference.cache
+C:\Users\MG\source\New projects\Counting Game\Counting Game Winform UI\obj\Debug\Counting_Game_Winform_UI.Forms.GameplayForm.resources
+C:\Users\MG\source\New projects\Counting Game\Counting Game Winform UI\obj\Debug\Counting_Game_Winform_UI.Forms.IntroForm.resources
+C:\Users\MG\source\New projects\Counting Game\Counting Game Winform UI\obj\Debug\Counting_Game_Winform_UI.Forms.MainMenuForm.resources
+C:\Users\MG\source\New projects\Counting Game\Counting Game Winform UI\obj\Debug\Counting_Game_Winform_UI.Properties.Resources.resources
+C:\Users\MG\source\New projects\Counting Game\Counting Game Winform UI\obj\Debug\Counting Game Winform UI.csproj.GenerateResource.cache
+C:\Users\MG\source\New projects\Counting Game\Counting Game Winform UI\obj\Debug\Counting Game Winform UI.csproj.CoreCompileInputs.cache
+C:\Users\MG\source\New projects\Counting Game\Counting Game Winform UI\obj\Debug\Counting.B7CBB70E.Up2Date
+C:\Users\MG\source\New projects\Counting Game\Counting Game Winform UI\obj\Debug\Counting Game Winform UI.exe
+C:\Users\MG\source\New projects\Counting Game\Counting Game Winform UI\obj\Debug\Counting Game Winform UI.pdb

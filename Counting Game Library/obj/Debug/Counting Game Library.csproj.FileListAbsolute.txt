@@ -1,0 +1,12 @@
+C:\Users\MG\source\New projects\Addition Game\Addition Game Library\bin\Debug\Addition Game Library.dll
+C:\Users\MG\source\New projects\Addition Game\Addition Game Library\bin\Debug\Addition Game Library.pdb
+C:\Users\MG\source\New projects\Addition Game\Addition Game Library\obj\Debug\Counting Game Library.csproj.AssemblyReference.cache
+C:\Users\MG\source\New projects\Addition Game\Addition Game Library\obj\Debug\Counting Game Library.csproj.CoreCompileInputs.cache
+C:\Users\MG\source\New projects\Addition Game\Addition Game Library\obj\Debug\Addition Game Library.dll
+C:\Users\MG\source\New projects\Addition Game\Addition Game Library\obj\Debug\Addition Game Library.pdb
+C:\Users\MG\source\New projects\Counting Game\Counting Game Library\bin\Debug\Counting Game Library.dll
+C:\Users\MG\source\New projects\Counting Game\Counting Game Library\bin\Debug\Counting Game Library.pdb
+C:\Users\MG\source\New projects\Counting Game\Counting Game Library\obj\Debug\Counting Game Library.csproj.AssemblyReference.cache
+C:\Users\MG\source\New projects\Counting Game\Counting Game Library\obj\Debug\Counting Game Library.csproj.CoreCompileInputs.cache
+C:\Users\MG\source\New projects\Counting Game\Counting Game Library\obj\Debug\Counting Game Library.dll
+C:\Users\MG\source\New projects\Counting Game\Counting Game Library\obj\Debug\Counting Game Library.pdb
